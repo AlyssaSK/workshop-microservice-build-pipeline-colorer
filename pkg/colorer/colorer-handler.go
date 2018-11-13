@@ -2,7 +2,6 @@ package colorer
 
 import (
 	"log"
-	"time"
 	"golang.org/x/net/context"
 )
 
